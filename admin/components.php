@@ -6,7 +6,7 @@
  *
  * @package RAT6
  * @subpackage Components
- * @link http://get-simple.info/docs/what-are-components
+ * @link http://www.facebook.com/pages/RAT6/196237143792761/docs/what-are-components
  */
  
 # setup inclusions

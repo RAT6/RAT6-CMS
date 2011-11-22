@@ -58,13 +58,13 @@ if (in_arrayi('curl', $php_modules)){
 $verstatus = '0';
 if ($verstatus == '0') {
 	$latest    = isset($apikey) ? $apikey->latest : '';  
-	$ver = i18n_r('WARNING').': '.$site_full_name.' '.i18n_r('UPG_NEEDED').' <b>'.$latest .'</b> &ndash; <a href="http://get-simple.info/download/" target="_blank" >'. i18n_r('DOWNLOAD').'</a>';
+	$ver = i18n_r('WARNING').': '.$site_full_name.' '.i18n_r('UPG_NEEDED').' <b>'.$latest .'</b> &ndash; <a href="http://www.facebook.com/pages/RAT6/196237143792761/download/" target="_blank" >'. i18n_r('DOWNLOAD').'</a>';
 } elseif ($verstatus == '1') {
 	$ver = null;
 } elseif ($verstatus == '2') {
 	$ver = null;
 } else {
-	$ver = i18n_r('WARNING').': '.i18n_r('CANNOT_CHECK').': <b>'.$site_version_no.'</b> &ndash; <a href="http://get-simple.info/download" target="_blank" >'. i18n_r('DOWNLOAD').'</a>';
+	$ver = i18n_r('WARNING').': '.i18n_r('CANNOT_CHECK').': <b>'.$site_version_no.'</b> &ndash; <a href="http://www.facebook.com/pages/RAT6/196237143792761/download" target="_blank" >'. i18n_r('DOWNLOAD').'</a>';
 }
 			
 ?>
@@ -82,7 +82,7 @@ if ($verstatus == '0') {
 
 		<h3><?php i18n('SUPPORT');?></h3>
 		<p>
-			<a href="welcome.php" class="button" ><?php i18n('GETTING_STARTED'); ?></a><a href="http://get-simple.info/wiki/" class="button" target="_blank" ><?php i18n('SIDE_DOCUMENTATION'); ?></a><a href="http://get-simple.info/forum/" class="button" target="_blank" ><?php i18n('SUPPORT_FORUM'); ?></a>
+			<a href="welcome.php" class="button" ><?php i18n('GETTING_STARTED'); ?></a><a href="http://www.facebook.com/pages/RAT6/196237143792761/wiki/" class="button" target="_blank" ><?php i18n('SIDE_DOCUMENTATION'); ?></a><a href="http://www.facebook.com/pages/RAT6/196237143792761/forum/" class="button" target="_blank" ><?php i18n('SUPPORT_FORUM'); ?></a>
 		</p>
 
 		<ol>

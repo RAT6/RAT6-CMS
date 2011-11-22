@@ -6,7 +6,7 @@
  *
  * @package RAT6
  * @subpackage Backups
- * @link http://get-simple.info/docs/restore-page-backup
+ * @link http://www.facebook.com/pages/RAT6/196237143792761/docs/restore-page-backup
  */
  
 // Setup inclusions

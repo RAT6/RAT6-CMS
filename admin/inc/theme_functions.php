@@ -4,7 +4,7 @@
  *
  * These functions are used within the front-end of a RAT6 installation
  *
- * @link http://get-simple.info/docs/theme-codex/
+ * @link http://www.facebook.com/pages/RAT6/196237143792761/docs/theme-codex/
  *
  * @package RAT6
  * @subpackage Theme-Functions

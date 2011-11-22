@@ -6,7 +6,7 @@
  *
  * @package RAT6
  * @subpackage Scheduling
- * @link http://get-simple.info/docs/cron-setup
+ * @link http://www.facebook.com/pages/RAT6/196237143792761/docs/cron-setup
  */
 
 if (basename($_SERVER['PHP_SELF']) == 'cron.php') { 

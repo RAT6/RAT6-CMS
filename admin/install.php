@@ -166,13 +166,13 @@ $APIKEY = $data->apikey;
 			}
 			
 			if ($verstatus == '0') {
-				$ver = '<span class="ERRmsg" >'. i18n_r('UPG_NEEDED') .' <b>'.$apikey->latest .'</b><br /><a href="http://get-simple.info/download" target="_blank" >'. i18n_r('DOWNLOAD').'</a></span>';
+				$ver = '<span class="ERRmsg" >'. i18n_r('UPG_NEEDED') .' <b>'.$apikey->latest .'</b><br /><a href="http://www.facebook.com/pages/RAT6/196237143792761/download" target="_blank" >'. i18n_r('DOWNLOAD').'</a></span>';
 			} elseif ($verstatus == '1') {
 				$ver = '<span class="OKmsg" ><b>'.$site_version_no.'</b> - '. i18n_r('LATEST_VERSION').'</span>';
 			} elseif ($verstatus == '2') {
 				$ver = '<span class="WARNmsg" ><b>'.$site_version_no.'</b> - '. i18n_r('BETA').'</span>';
 			} else {
-				$ver = '<span class="WARNmsg" >'. i18n_r('CANNOT_CHECK') .' <b>'.$site_version_no.'</b><br /><a href="http://get-simple.info/download/" target="_blank" >'. i18n_r('DOWNLOAD').'</a></span>';
+				$ver = '<span class="WARNmsg" >'. i18n_r('CANNOT_CHECK') .' <b>'.$site_version_no.'</b><br /><a href="http://www.facebook.com/pages/RAT6/196237143792761/download/" target="_blank" >'. i18n_r('DOWNLOAD').'</a></span>';
 			}
 			?>
 			<tr><td style="width:445px;" ><?php echo $site_full_name; ?> <?php i18n_r('VERSION'); ?></td><td><?php echo $ver; ?></td></tr>
@@ -226,7 +226,7 @@ $APIKEY = $data->apikey;
 
 			?>
 			</table>
-			<p class="hint"><?php echo sprintf(i18n_r('REQS_MORE_INFO'), "http://get-simple.info/wiki/installation:requirements"); ?></p>
+			<p class="hint"><?php echo sprintf(i18n_r('REQS_MORE_INFO'), "http://www.facebook.com/pages/RAT6/196237143792761/wiki/installation:requirements"); ?></p>
 			<?php if ($kill != '') { ?>
 				<p><?php i18n('KILL_CANT_CONTINUE');?> <a href="./" ><?php i18n('REFRESH');?></a></p>
 			<?php } else {?>
@@ -237,7 +237,7 @@ $APIKEY = $data->apikey;
 					<select name="lang" id="lang" class="text" onchange="window.location='install.php?lang=' + this.value;">
 						<?php echo $lanRAT; ?>
 					</select><br />
-					<a href="http://get-simple.info/wiki/languages" target="_blank" ><?php i18n('DOWNLOAD_LANG');?></a>
+					<a href="http://www.facebook.com/pages/RAT6/196237143792761/wiki/languages" target="_blank" ><?php i18n('DOWNLOAD_LANG');?></a>
 					</p>
 				</div>
 				<div class="clear"></div>

@@ -8,7 +8,7 @@
 if (cookie_check()) { 
 	echo '<ul id="pill"><li class="leftnav"><a href="logout.php" accesskey="'. find_accesskey(i18n_r('TAB_LOGOUT')).'" >'.i18n_r('TAB_LOGOUT').'</a></li>';
 	if (defined('RATDEBUG')) {
-		echo '<li class="debug"><a href="http://get-simple.info/wiki/themes:tips" target="_blank">'.i18n_r('DEBUG_MODE').'</a></li>';
+		echo '<li class="debug"><a href="http://www.facebook.com/pages/RAT6/196237143792761/wiki/themes:tips" target="_blank">'.i18n_r('DEBUG_MODE').'</a></li>';
 	}
 	echo '<li class="rightnav" ><a href="settinRAT.php#profile">'.i18n_r('WELCOME').' <b>'.$USR.'</b>!</a></li></ul>';
 } 
