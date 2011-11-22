@@ -7,7 +7,7 @@
 (function($){$.fn.reverseOrder=function(){return this.each(function(){$(this).prependTo($(this).parent())})}})(jQuery);
 
 /*
- * GetSimple js file	
+ * RAT6 js file	
  */
 
 function DeleteComp(id) {
@@ -336,5 +336,5 @@ jQuery(document).ready(function() {
 		$('#createfolder').show();
 	});
 	
-//end of javascript for getsimple
+//end of javascript for RAT6
 }); 

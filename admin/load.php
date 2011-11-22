@@ -4,7 +4,7 @@
  *
  * Displays the plugin file passed to it 
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Plugins
  */
 

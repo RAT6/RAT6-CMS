@@ -2,7 +2,7 @@
 /**
  * Sidebar Pages Template
  *
- * @package GetSimple
+ * @package RAT6
  */
 ?>
 <ul class="snav">

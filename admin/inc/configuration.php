@@ -2,11 +2,11 @@
 /**
  * Configuration File
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Config
  */
 
-$site_full_name = 'GetSimple';
+$site_full_name = 'RAT6';
 $site_version_no = '3.0';
 $name_url_clean = lowercase(str_replace(' ','-',$site_full_name));
 $site_link_back_url = 'http://get-simple.info/';

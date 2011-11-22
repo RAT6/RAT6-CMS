@@ -2,9 +2,9 @@
 /**
  * Template Functions
  *
- * These functions are used within the back-end of a GetSimple installation
+ * These functions are used within the back-end of a RAT6 installation
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Zip
  */ 
 	
@@ -543,7 +543,7 @@ function check_menu($text) {
 /**
  * Password Hashing
  *
- * Default function to create a hashed password for GetSimple
+ * Default function to create a hashed password for RAT6
  *
  * @since 2.0
  * @uses RATLOGINSALT

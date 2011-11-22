@@ -4,7 +4,7 @@
  *
  * Allows websites to cron certain items of their installation 	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Scheduling
  * @link http://get-simple.info/docs/cron-setup
  */

@@ -4,7 +4,7 @@
  *
  * Second step of installation (install.php). Sets up initial files & structure
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Installation
  */
 

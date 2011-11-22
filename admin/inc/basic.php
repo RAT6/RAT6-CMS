@@ -2,9 +2,9 @@
 /**
  * Basic Functions 
  *
- * These functions are used throughout the installation of GetSimple.
+ * These functions are used throughout the installation of RAT6.
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Basic-Functions
  */
 

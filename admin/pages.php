@@ -4,7 +4,7 @@
  *
  * Displays all pages 
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Page-Edit
  */
 

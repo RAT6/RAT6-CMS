@@ -4,7 +4,7 @@
  *
  * Deletes Files based on what is passed to it 	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Delete-Files
  */
 

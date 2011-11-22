@@ -4,7 +4,7 @@
  *
  * Displays and uploads files to the website
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Files
  * @todo Remove relative paths
  */

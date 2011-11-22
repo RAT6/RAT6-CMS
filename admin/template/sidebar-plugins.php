@@ -2,7 +2,7 @@
 /**
  * Sidebar Plugins Template
  *
- * @package GetSimple
+ * @package RAT6
  */
 ?>
 <ul class="snav">

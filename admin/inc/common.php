@@ -5,7 +5,7 @@
  * This file initializes up most variables for the site. It is also where most files
  * are included from. It also reads and stores certain variables.
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage init
  */
 

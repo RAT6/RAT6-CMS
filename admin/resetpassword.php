@@ -2,9 +2,9 @@
 /**
  * Reset Password
  *
- * Resets the password for GetSimple control panel access
+ * Resets the password for RAT6 control panel access
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Login
  */
 

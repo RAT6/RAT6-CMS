@@ -4,7 +4,7 @@
  *
  * Displays all available page backups. 	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Backups
  * @link http://get-simple.info/docs/restore-page-backup
  */

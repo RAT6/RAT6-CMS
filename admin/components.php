@@ -4,7 +4,7 @@
  *
  * Displays and creates static components 	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Components
  * @link http://get-simple.info/docs/what-are-components
  */

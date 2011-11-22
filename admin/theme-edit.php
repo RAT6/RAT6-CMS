@@ -4,7 +4,7 @@
  *
  * Allows you to edit a theme file
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Theme
  */
 

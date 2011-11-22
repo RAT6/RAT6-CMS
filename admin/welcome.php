@@ -4,7 +4,7 @@
  *
  * Welcome Message Screen
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Installation
  */
 

@@ -25,7 +25,7 @@
  * @link //www.zubrag.com/scripts/
  * @version 1.3
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Images
  */ 
 

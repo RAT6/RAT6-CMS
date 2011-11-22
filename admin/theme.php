@@ -2,7 +2,7 @@
 /**
  * Theme
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Theme
  */
 

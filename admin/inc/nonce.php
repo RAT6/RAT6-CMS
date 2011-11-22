@@ -5,7 +5,7 @@
  * @author tankmiche
  * @link http://www.tankmiche.com/
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage XSS
  */
 

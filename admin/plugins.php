@@ -4,7 +4,7 @@
  *
  * Displays all installed plugins 
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Plugins
  */
  

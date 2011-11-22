@@ -4,7 +4,7 @@
  *
  * Provides any updating to the system the first time it is run
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Init
  */
 

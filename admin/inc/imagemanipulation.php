@@ -7,7 +7,7 @@
  * @version   1.0
  * @copyright 2009 Talk In Code
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Images
  */
 class ImageManipulation {

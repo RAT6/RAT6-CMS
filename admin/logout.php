@@ -2,9 +2,9 @@
 /**
  * Logout
  *
- * LoRAT the user out of the GetSimple control panel
+ * LoRAT the user out of the RAT6 control panel
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Login
  */
 

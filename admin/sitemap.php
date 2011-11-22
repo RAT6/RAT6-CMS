@@ -4,7 +4,7 @@
  *
  * Creates sitemap.xml in the site's root.
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Sitemap
  */
 

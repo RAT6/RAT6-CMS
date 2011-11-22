@@ -2,7 +2,7 @@
 /**
  * Plugin Functions
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Plugin-Functions
  */
 

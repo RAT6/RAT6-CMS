@@ -2,9 +2,9 @@
 /**
  * Login
  *
- * Allows access to the GetSimple control panel
+ * Allows access to the RAT6 control panel
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Login
  */
 

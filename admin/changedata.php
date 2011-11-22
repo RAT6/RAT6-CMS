@@ -5,7 +5,7 @@
  * Code to either create or edit a page. This is the action page  
  * for the form on edit.php	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Page-Edit
  */
 

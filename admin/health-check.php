@@ -4,7 +4,7 @@
  *
  * Displays the status and health check of your installation	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Support
  */
 

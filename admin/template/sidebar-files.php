@@ -2,7 +2,7 @@
 /**
  * Sidebar Files Template
  *
- * @package GetSimple
+ * @package RAT6
  */
  
 $path = (isset($_GET['path'])) ? $_GET['path'] : "";

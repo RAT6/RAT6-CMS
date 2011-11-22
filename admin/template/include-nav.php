@@ -2,7 +2,7 @@
 /**
  * Navigation Include Template
  *
- * @package GetSimple
+ * @package RAT6
  */
  
 if (cookie_check()) { 

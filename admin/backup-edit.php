@@ -4,7 +4,7 @@
  *
  * View the current backup of a given page
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Backups
  */
  
@@ -111,7 +111,7 @@ elseif ($p == 'restore') {
 		<script type="text/javascript" src="template/js/ckeditor/ckeditor.js"></script>
 		<script type="text/javascript">
 		var editor = CKEDITOR.replace( 'codetext', {
-			skin : 'getsimple',
+			skin : 'RAT6',
 			language : '<?php echo $EDLANG; ?>',
 			defaultLanguage : '<?php echo $EDLANG; ?>',
 			<?php if (file_exists(RATTHEMESPATH .$TEMPLATE."/editor.css")) { 

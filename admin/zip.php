@@ -4,7 +4,7 @@
  *
  * Creates a zip archive of the site
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Backups
  */
 

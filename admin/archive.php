@@ -4,7 +4,7 @@
  *
  * Displays and starts the website archives 	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Backups
  */
 

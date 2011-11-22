@@ -4,7 +4,7 @@
  *
  * Initial step of installation. Redirects to setup.php if everything checks out OK
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Installation
  */
 

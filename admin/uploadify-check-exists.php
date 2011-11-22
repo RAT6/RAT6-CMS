@@ -5,7 +5,7 @@
  * Return true if the file exists
  *
  * @author Ronnie Garcia
- * @package GetSimple
+ * @package RAT6
  * @subpackage Files
  */
  

@@ -2,7 +2,7 @@
 /**
  * Admin Stylesheet
  * 
- * @package GetSimple
+ * @package RAT6
  * @subpackage init
  */
 header("Content-type: text/css");

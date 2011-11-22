@@ -4,7 +4,7 @@
  *
  * Forces the download of file types
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Download
  */
  

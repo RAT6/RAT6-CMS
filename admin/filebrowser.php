@@ -4,7 +4,7 @@
  *
  * Displays and selects file link to insert into CKEditor
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Files
  * 
  * Version: 1.1 (2011-03-12)

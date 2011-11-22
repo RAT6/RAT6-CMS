@@ -4,7 +4,7 @@
  *
  * Displays and changes website settinRAT 
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage SettinRAT
  */
 

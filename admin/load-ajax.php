@@ -4,7 +4,7 @@
  *
  * Loads the plugin function pass to it
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Plugins
  */
 

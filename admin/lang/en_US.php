@@ -4,10 +4,10 @@
  *
  * Date:				16 Oct 2010
  * Revision:		Feb 2011
- * Version:			GetSimple 3.0
+ * Version:			RAT6 3.0
  * Traductors: 	Chris Cagle 
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Language
  */
 
@@ -388,8 +388,8 @@ $i18n = array(
 /* 
  * For: welcome.php
 */
-"WELCOME_MSG"				=>	"Thank you for choosing GetSimple as your CMS!",
-"WELCOME_P"					=>	"GetSimple makes managing your website as simple as possible with its top-of-the-class user interface and the easiest templating system around.",
+"WELCOME_MSG"				=>	"Thank you for choosing RAT6 as your CMS!",
+"WELCOME_P"					=>	"RAT6 makes managing your website as simple as possible with its top-of-the-class user interface and the easiest templating system around.",
 "GETTING_STARTED"		=>	"Getting Started",
 
 /* 

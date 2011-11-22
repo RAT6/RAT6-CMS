@@ -2,7 +2,7 @@
 /**
  * Login Functions
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Login
  */
 

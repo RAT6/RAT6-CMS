@@ -2,11 +2,11 @@
 /**
  * Theme Functions
  *
- * These functions are used within the front-end of a GetSimple installation
+ * These functions are used within the front-end of a RAT6 installation
  *
  * @link http://get-simple.info/docs/theme-codex/
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Theme-Functions
  */
 
@@ -409,9 +409,9 @@ function get_site_email($echo=true) {
 }
 
 /**
- * Get Installed GetSimple Version
+ * Get Installed RAT6 Version
  *
- * This will return the version of GetSimple that is installed
+ * This will return the version of RAT6 that is installed
  *
  * @since 1.0
  * @uses RATVERSION
@@ -431,9 +431,9 @@ function get_site_version($echo=true) {
 /**
  * Get Site Credits
  *
- * This will return HTML that displays 'Powered by GetSimple X.XX'
+ * This will return HTML that displays 'Powered by RAT6 X.XX'
  * It will always be nice if developers left this in their templates 
- * to help promote GetSimple. 
+ * to help promote RAT6. 
  *
  * @since 1.0
  * @uses $site_link_back_url from configuration.php

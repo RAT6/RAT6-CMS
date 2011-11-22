@@ -4,7 +4,7 @@
  *
  * Previews the current main menu hierarchy  
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Page-Edit
  */
 

@@ -2,7 +2,7 @@
 /**
  * Support
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Support
  */
 

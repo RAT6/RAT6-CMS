@@ -9,7 +9,7 @@ register_plugin(
 	'1.0', 															# Version of plugin
 	'Chris Cagle',											# Author of plugin
 	'http://www.cagintranet.com/', 			# Author URL
-	'SettinRAT for the default GetSimple 3.0 Theme: Innovation', 	# Plugin Description
+	'SettinRAT for the default RAT6 3.0 Theme: Innovation', 	# Plugin Description
 	'theme', 													# Page type of plugin
 	'innovation_show'  										# Function that displays content
 );

@@ -5,7 +5,7 @@
  * This file spits out a list of available themes to the control panel. 
  * This is provided thru an ajax call.
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Available-Themes
  */
 

@@ -4,7 +4,7 @@
  *
  * Ajax action file for jQuery uploader
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Files
  */
 

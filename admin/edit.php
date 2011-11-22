@@ -4,7 +4,7 @@
  *
  * Edit or create new pages for the website.	
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Page-Edit
  */
 
@@ -309,7 +309,7 @@ if ($menu == '') { $menu = $title; }
 			<script type="text/javascript">
 			
 			var editor = CKEDITOR.replace( 'post-content', {
-	        skin : 'getsimple',
+	        skin : 'RAT6',
 	        forcePasteAsPlainText : true,
 	        language : '<?php echo $EDLANG; ?>',
 	        defaultLanguage : 'en',

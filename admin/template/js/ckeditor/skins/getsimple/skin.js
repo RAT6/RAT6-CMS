@@ -3,7 +3,7 @@ Copyright (c) 2003-2011, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
 
-CKEDITOR.skins.add( 'getsimple', (function()
+CKEDITOR.skins.add( 'RAT6', (function()
 {
 	return {
 		editor		: { css : [ 'editor.css' ] },
@@ -32,7 +32,7 @@ CKEDITOR.skins.add( 'getsimple', (function()
 					dialog = data.dialog,
 					contents = dialog.parts.contents;
 
-				if ( data.skin != 'getsimple' )
+				if ( data.skin != 'RAT6' )
 					return;
 
 				contents.setStyles(

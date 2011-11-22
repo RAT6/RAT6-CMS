@@ -2,7 +2,7 @@
 /**
  * Header Admin Template
  *
- * @package GetSimple
+ * @package RAT6
  */
 
 global $LANG;
@@ -14,7 +14,7 @@ $LANG_header = preg_replace('/(?:(?<=([a-z]{2}))).*/', '', $LANG);
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"  />
 	<title><?php echo $title ?></title>
 	<link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
-	<meta name="generator" content="GetSimple - <?php echo RATVERSION; ?>" /> 
+	<meta name="generator" content="RAT6 - <?php echo RATVERSION; ?>" /> 
 	<meta name="robots" content="noindex, nofollow">
 	
 	
@@ -47,8 +47,8 @@ $LANG_header = preg_replace('/(?:(?<=([a-z]{2}))).*/', '', $LANG);
 	<link rel="stylesheet" type="text/css" href="template/js/fancybox/jquery.fancybox-1.3.4.css" media="screen" />		
 
 
-	<!-- GetSimple specific files -->
-	<script type="text/javascript" src="template/js/jquery.getsimple.js?v=<?php echo RATVERSION; ?>"></script>
+	<!-- RAT6 specific files -->
+	<script type="text/javascript" src="template/js/jquery.RAT6.js?v=<?php echo RATVERSION; ?>"></script>
 	<link rel="stylesheet" type="text/css" href="template/style.php?v=<?php echo RATVERSION; ?>" media="screen" />
 	<!--[if IE 6]><link rel="stylesheet" type="text/css" href="template/ie6.css?v=<?php echo RATVERSION; ?>" media="screen" />
 	<![endif]-->

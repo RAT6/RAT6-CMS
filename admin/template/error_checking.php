@@ -4,7 +4,7 @@
  *
  * Displays error and success messages	
  *
- * @package GetSimple
+ * @package RAT6
  */
  
 	if ( file_exists(RATUSERSPATH._id($USR).".xml.reset") && get_filename_id()!='index' && get_filename_id()!='resetpassword' ) {

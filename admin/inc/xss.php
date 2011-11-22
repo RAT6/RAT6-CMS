@@ -4,7 +4,7 @@
  *
  * @author Martijn van der Ven
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage XSS
  */
 

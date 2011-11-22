@@ -2,7 +2,7 @@
 /**
  * Cookie Functions
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Login
  */
 require_once(RATADMININCPATH.'configuration.php');

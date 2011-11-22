@@ -4,7 +4,7 @@
  *
  * Displays information on the passed image
  *
- * @package GetSimple
+ * @package RAT6
  * @subpackage Images
  */
 
